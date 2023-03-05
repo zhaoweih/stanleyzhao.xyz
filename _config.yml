@@ -35,7 +35,7 @@ jsonContent:
     tags: true
 
 # URL
-url: https://blog.chiuwaiho.tech/
+url: https://stanleyzhao.xyz/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

@@ -11,6 +11,6 @@ So pull up a chair, grab a cup of coffee (or your beverage of choice), and let's
 ```bash
 scp MyBlog.zip root@149.248.11.195:/tmp/
 
-sudo unzip /tmp/MyBlog.zip -d /usr/share/nginx/html/
+sudo unzip -O CP936 /tmp/MyBlog.zip -d /usr/share/nginx/html/
 ```
 
