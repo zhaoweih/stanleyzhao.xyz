@@ -1,24 +1,20 @@
 ---
 title: 关于
-date: 2019-06-01 15:00:36
+date: 2023-10-28 16:16:36
 type: "about"
 ---
 
 
 ### 关于我
-个人介绍：一个喜爱喝茶🍵，咖啡☕和吃巧克力🍫，具有故事情节的男人，尤爱有故事的物件
+个人介绍：喜欢喝茶听风看雨
 
-擅长：Android  前端 Java后端
+擅长：Android  前端 Java后端 Unity
 
-在学校学的技能： Adobe大部分软件和Maya 3D的基本操作，写一些简单的网页
+语言能力：英语(CET6)
 
-喜好：日漫，各种奇奇怪怪的东西
+家乡：广东江门
 
-语言能力：英语(CET6 462)
-
-家乡：中国 广东 江门
-
-现在在 深圳
+现居深圳
 
 学历：本科 普通二本学校
 
@@ -32,8 +28,3 @@ Resume(English):[resume_en.pdf](../files/resume/resume_en.pdf)
 
 ### 如何找我
 邮箱📮:zhaoweihao.dev@gmail.com
-
-### 博客搭建
-使用Hexo搭建
-部署在Netlify
-域名解析托管在Cloudflare
